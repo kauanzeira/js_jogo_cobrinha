@@ -1,7 +1,9 @@
 body {
+background-image: url(https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt32369b92ef2821bf/60dcf451f1ff900f4d442404/9697be771891e9bc07655c1184afeadbe8362570.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-size: 104%;
+    color: white;
 }
-
